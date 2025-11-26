@@ -27,7 +27,7 @@ module "sandbox_child_04" {
     custom2 = "b"
   }
 
-  account_customizations_name = "SANDBOX"
+  account_customizations_name = "PRODUCTION"
 }
 
 module "sandbox_child_05" {
